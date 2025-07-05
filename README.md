@@ -18,8 +18,6 @@ This Power BI project presents a **comparative investment analysis** of **Gold**
 ## 📷 Sample Visuals
 ![](https://github.com/suga1424/-Investment-Analysis-for-Indian-Citizens-2000-2025-/blob/main/Screenshot%202025-07-05%20162933.png?raw=true)
 
-This chart highlights the **inverse relationship** between **gold prices** and the **USD-INR exchange rate**, especially in macroeconomic pressure years (e.g., 2013, 2020).
-
 ## 📌 Maximum Historical Rates (2000–2025)
 | Asset           | Max Value |
 |----------------|-----------|
