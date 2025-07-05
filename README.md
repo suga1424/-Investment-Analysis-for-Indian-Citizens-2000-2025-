@@ -55,7 +55,7 @@ This Power BI project presents a **comparative investment analysis** of **Gold**
 - **Power Query Editor**
 - **Manual & web-sourced datasets**
 
-- 🧾 Conclusion
+## 🧾 Conclusion
   
 -This project helped me uncover how different investments—Gold, Silver, FD, and USD-INR—performed over 25 years. Through clear visuals and trends, I’ve shown how prices shifted during global and local events.
 
